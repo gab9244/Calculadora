@@ -1,5 +1,5 @@
   <h1>Calculadora</h1>
-
+    <a href = "https://calculadora-ten-beryl.vercel.app/">Link para o projeto</a>
   <p>Este projeto é um simples calculadora que eu fiz Usando React, JSX e Tailwind.</p>
   <p>Para realizar as equações eu usei a função evaluate do package mathjs. Essa função pega uma string e caso a equação faça sentido ela retorna o resultado da equação. Preferir usar essa função ao invés de escrever cada função para cada simbolo matemático por simplicidade e economia de tempo.</p>
     <h2>Explicação do código</h2>
